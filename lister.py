@@ -1,7 +1,7 @@
 import json
 
 # Dışarıdan metin listesini içeren dosyanın adı
-input_file = "metinler.txt"
+input_file = "BADlist.txt"
 
 # Dosyadan metinleri okuyun
 with open(input_file, "r", encoding="utf-8") as file:
